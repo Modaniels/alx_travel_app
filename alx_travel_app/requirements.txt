@@ -1,0 +1,8 @@
+Django==5.2.7
+djangorestframework
+django-cors-headers
+drf-yasg
+mysqlclient
+django-environ
+celery
+redis
